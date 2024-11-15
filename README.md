@@ -11,6 +11,10 @@ In addition to font identification, Font Identity brings a passion for typograph
 ### Related Links
 
 [ChatGPT](https://github.com/sourceduty/ChatGPT)
+<br>
+[Font Dev](https://github.com/sourceduty/Font_Dev)
+<br>
+[PlayerCode](https://github.com/sourceduty/PlayerCode)
 
 ***
 Copyright (C) 2024, Sourceduty - All Rights Reserved.
